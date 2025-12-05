@@ -1,12 +1,12 @@
 <!-- Coding From Home Banner -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" height="300px" />
+  <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="250" height="290px" />
 </p>
 
-<h1 align="center">
-  <span style="color:#0ef7ff; font-size:36px;">⚡ Rajanya Sarker Shounak ⚡</span><br/>
-  <span style="color:#1de9b6; font-size:14px;">Software Engineer I • Full-Stack Developer • JavaScript | Vue.js | Next.js | React.js</span>
-</h1>
+<div align="center">
+  <h1 style="color:#0ef7ff; font-size:36px;">⚡ Rajanya Sarker Shounak ⚡</h1><br/>
+  <h3 style="color:#1de9b6; font-size:14px;">Software Engineer I • Full-Stack Developer • JavaScript | Vue.js | Next.js | React.js</h3>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=f7af31&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Modern+Web+Apps;APIs+%7C+Backend+%7C+Frontend;AI+%7C+Automation+%7C+Tools;Always+Learning+and+Growing+🚀">
