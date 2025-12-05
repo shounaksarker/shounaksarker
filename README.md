@@ -1,11 +1,11 @@
-<!-- Hacker-Glitch Animated Banner -->
+<!-- Coding From Home Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/NF4KzvN/animated-engineer-cyberpunk.gif" width="100%" />
+  <img src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="100%" />
 </p>
 
 <h1 align="center">
-  <span style="font-size: 35px;">⚡ Rajanya Sarker Shounak ⚡</span><br/>
-  <span style="font-size: 20px;">Software Engineer I • Full-Stack Developer • JavaScript | TypeScript | Next.js | React</span>
+  <span style="color:#0ef7ff; font-size:36px;">⚡ Rajanya Sarker Shounak ⚡</span><br/>
+  <span style="color:#1de9b6; font-size:20px;">Software Engineer I • Full-Stack Developer • JavaScript | TypeScript | Next.js | React</span>
 </h1>
 
 <p align="center">
@@ -14,24 +14,27 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 <span style="color:#1de9b6;">About Me</span>
 - 🔹 Software Engineer I at **Pathao Ltd. (Nepal)**  
-- 🔹 Worked on **ride-sharing platforms**, building rental, auto, bike, and car features  
-- 🔹 Developed APIs, refactored services, fixed critical bugs, and enhanced dashboards  
-- 🔹 Built modern apps using **Next.js, React, Vue, Express.js, MySQL**  
-- 🔹 Passionate about **AI, automation, and startup product ideas**  
+- 🔹 Built **ride-sharing platforms**: rental, auto, bike, and car features  
+- 🔹 Developed APIs, refactored services, fixed production bugs, and enhanced dashboards  
+- 🔹 Built apps using **Next.js, React, Vue, Express.js, MySQL**  
+- 🔹 Passionate about **AI, automation, and startup products**  
 - 🔹 Focused on **clean code, scalability, and performance**  
 
 ---
 
-# 🛠 Tech Arsenal
+## 🛠 <span style="color:#0ef7ff;">Tech Arsenal</span>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,express,mysql,mongodb,firebase,git,tailwind,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,express,mysql,mongodb,firebase,git,tailwind,html,css,vscode&theme=light&perline=7" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=0ef7ff&center=true&vCenter=true&width=800&lines=💻+Coding+JavaScript+%2F+TypeScript;🌐+Building+Frontend+%2F+Backend;⚡+React+Next.js+Vue+Node;☁+Databases+MySQL+MongoDB;🔧+Git+Firebase+Tailwind+CSS">
 </p>
 
 ---
 
-# ⭐ Featured Projects
+## ⭐ <span style="color:#1de9b6;">Featured Projects</span>
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🏛 **Library Management** | Most starred repo | JavaScript |
@@ -42,38 +45,26 @@
 
 ---
 
-# 🔥 GitHub Stats (Blue/Teal Neon)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shounaksarker&show_icons=true&theme=react-dark&hide_border=true&count_private=true&hide_title=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shounaksarker&theme=react-dark&hide_border=true" height="160px"/>
-</p>
+## 🏢 <span style="color:#0ef7ff;">Experience</span>
+- **Software Engineer I — Pathao Ltd. (2023 – Present, Nepal)**  
+  Worked on ride-sharing web features (rental, auto, bike, car), developed APIs, fixed bugs, refactored services, and enhanced dashboards. Built apps using **Next.js, React, Vue, Express, MySQL** while focusing on **performance, clean code, and scalability**.  
+
+- **Frontend Developer — Devfirm Ltd. (2023)**  
+  Built React/Next.js web apps with Firebase auth, REST APIs, and reusable components.
 
 ---
 
-# 🛰 3D Contribution Snake
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🌌 Hacker Terminal Widget
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=800&lines=$+_git+clone+https://github.com/shounaksarker; $+_npm+install; $+_npm+start; $+_deploying+project+...; $+_🎉+Done" />
-</p>
-
----
-
-# 🎓 Education
+## 🎓 <span style="color:#1de9b6;">Education</span>
 - **BSc in Electronics & Communication Engineering (ECE)**  
   Institute of Science & Technology (National University), Bangladesh  
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 <span style="color:#0ef7ff;">Connect With Me</span>
 <p align="center">
-  <a href="mailto:shounakrajanya@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rajanya-sarker-shounak"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://shounakraj.com"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=googlesitekit"></a>
+  <a href="mailto:shounaksarker@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/shounaksarker"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/shounaksarker"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
 
