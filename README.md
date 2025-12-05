@@ -15,7 +15,7 @@
 ---
 
 ## 🧑‍💻 <span style="color:#1de9b6;">About Me</span>
-- 🔹 Software Engineer I at **Pathao Ltd. (Nepal)**  
+- 🔹 Software Engineer I at **Pathao Ltd. (Dhaka, Bangladesh)**  
 - 🔹 Built **ride-sharing platforms**: rental, auto, bike, and car features  
 - 🔹 Developed APIs, refactored services, fixed production bugs, and enhanced dashboards  
 - 🔹 Built apps using **Next.js, React, Vue, Express.js, MySQL**  
@@ -26,7 +26,7 @@
 
 ## 🛠 <span style="color:#0ef7ff;">Tech Arsenal</span>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,express,mysql,mongodb,firebase,git,tailwind,html,css,vscode&theme=light&perline=7" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,express,mysql,mongodb,firebase,git,tailwind,html,css,vscode&theme=light&perline=7" width="100%" height="150px" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=f7af31&center=true&vCenter=true&width=800&lines=💻+Coding+JavaScript+%2F+TypeScript;🌐+Building+Frontend+%2F+Backend;⚡+React+Next.js+Vue+Node;☁+Databases+MySQL+MongoDB;🔧+Git+Firebase+Tailwind+CSS">
