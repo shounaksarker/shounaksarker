@@ -26,7 +26,7 @@
 
 ## 🛠 <span style="color:#0ef7ff;">Tech Arsenal</span>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,express,mysql,mongodb,firebase,git,tailwind,html,css,vscode&theme=light&perline=7" width="100%" height="150px" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,express,mysql,mongodb,firebase,git,tailwind,html,css,vscode&theme=light&perline=10" width="100%" height="150px" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=f7af31&center=true&vCenter=true&width=800&lines=💻+Coding+JavaScript+%2F+TypeScript;🌐+Building+Frontend+%2F+Backend;⚡+React+Next.js+Vue+Node;☁+Databases+MySQL+MongoDB;🔧+Git+Firebase+Tailwind+CSS">
@@ -46,7 +46,7 @@
 ---
 
 ## 🏢 <span style="color:#0ef7ff;">Experience</span>
-- **Software Engineer I — Pathao Ltd. (Dec, 2023 – Present, Bangladesh)**  
+- **Software Engineer I — Pathao Ltd. (Dec, 2023 – Present)**  
   Worked on ride-sharing web features (rental, auto, bike, car), developed APIs, fixed bugs, refactored services, and enhanced dashboards. Built apps using **Next.js, React, Vue, Express, MySQL** while focusing on **performance, clean code, and scalability**.  
 
 - **Frontend Developer — Devfirm Ltd. (2023)**  
