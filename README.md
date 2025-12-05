@@ -4,7 +4,7 @@
 <td width="60%" valign="middle">
 
 <h1 style="color:#0ef7ff; font-size:36px;">⚡ Rajanya Sarker Shounak ⚡</h1>
-<h3 style="color:#1de9b6; font-size:14px;">Software Engineer • Full-Stack Developer • JavaScript <br/> Vue.js | Next.js | React.js | Express.js</h3>
+<h3 style="color:#1de9b6; font-size:14px;">Software Engineer • Full-Stack Developer • JavaScript      Vue.js | Next.js | React.js | Express.js</h3>
 <p style="padding-left:2px">
 <img src="https://readme-typing-svg.herokuapp.com?size=24&color=f7af31&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;Building+Modern+Web+Apps;APIs+%7C+Backend+%7C+Frontend;AI+%7C+Automation+%7C+Tools;Always+Learning+and+Growing+🚀">
 </p>
