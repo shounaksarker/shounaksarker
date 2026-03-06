@@ -21,7 +21,7 @@
 ---
 
 ## 🧑‍💻 <span style="color:#1de9b6;">About Me</span>
-- 🔹 Software Engineer I at **Pathao Ltd. (Dhaka, Bangladesh)**  
+- 🔹 Software Engineer II at **Pathao Ltd. (Dhaka, Bangladesh)**  
 - 🔹 Built **ride-sharing platforms**: rental, auto, bike, and car features  
 - 🔹 Developed APIs, refactored services, fixed production bugs, and enhanced dashboards  
 - 🔹 Built apps using **Next.js, React, Vue, Express.js, MySQL**  
